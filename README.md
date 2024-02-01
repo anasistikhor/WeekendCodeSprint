@@ -9,7 +9,7 @@
 The initiative encompasses a range of projects, each varying in complexity. These projects are a testament to my learning journey, demonstrating my evolving proficiency in various tech areas. They are all hosted on GitHub, offering a transparent view of my development process and progress.
 
 ### Organizational Approach
-- **Central Repository**: The `WeekendCodeSprint` repository on GitHub is where I keep an overview of all my projects. It's the hub that connects all my work.
+- **Central Repository**: The `"WeekendCodeSprint"` repository on GitHub is where I keep an overview of all my projects. It's the hub that connects all my work.
 - **Individual Projects**: Each project has its dedicated repository. This helps me keep things organized, making it easier to focus on specific aspects of each project.
 - **Progress Tracking**: Through this structure, I can efficiently track the development and accomplishments of each project while maintaining a clear overall picture of my learning curve.
 
