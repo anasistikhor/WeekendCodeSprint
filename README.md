@@ -11,7 +11,7 @@ The initiative encompasses a range of projects, each varying in complexity. Thes
 ### Organizational Approach
 - **Central Repository**: The `"WeekendCodeSprint"` repository on GitHub is where I keep an overview of all my projects. It's the hub that connects all my work.
 - **Individual Projects**: Each project has its dedicated repository. This helps me keep things organized, making it easier to focus on specific aspects of each project.  
-["WeekendCodeSprint-Jumpstart"](https://github.com/anasistikhor/WeekendCodeSprint-JumpStart)
+1.["WeekendCodeSprint-Jumpstart"](https://github.com/anasistikhor/WeekendCodeSprint-JumpStart)
 - **Progress Tracking**: Through this structure, I can efficiently track the development and accomplishments of each project while maintaining a clear overall picture of my learning curve.
 
 ### Personal Development
