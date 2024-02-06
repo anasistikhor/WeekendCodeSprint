@@ -5,7 +5,7 @@
 ### Overview
 "WeekendCodeSprint" is my initiative where I consolidate all my projects. The primary aim is to improve my programming skills, particularly in data science and machine learning. It's a space where I challenge myself, experiment with new ideas, and continuously grow my technical abilities.
 
-["WeekendCodeSprint-Jumpstart"](README.md)
+["WeekendCodeSprint-Jumpstart"](https://github.com/anasistikhor/WeekendCodeSprint-JumpStart)
 
 ### Project Focus
 The initiative encompasses a range of projects, each varying in complexity. These projects are a testament to my learning journey, demonstrating my evolving proficiency in various tech areas. They are all hosted on GitHub, offering a transparent view of my development process and progress.
