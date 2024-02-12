@@ -15,7 +15,7 @@ The initiative encompasses a range of projects, each varying in complexity. Thes
   - [ ] [Roadmap](https://github.com/anasistikhor/WeekendCodeSprint-JumpStart)
   - [ ] [IBM Data Science Professional](https://www.coursera.org/professional-certificates/ibm-data-science?)
   - [ ] [Certified Data Scientist](https://www.opengroup.org/certifications/associate-data-scientist)
-  - ### [WeekendCodeSprint-AgileWebDev](https://github.com/anasistikhor/WeekendCodeSprint-AgileWebDEv)
+  - ### [WeekendCodeSprint-AgileWebDev](https://github.com/anasistikhor/WeekendCodeSprint-AgileWebDEv) 
 
 - **Progress Tracking**: Through this structure, I can efficiently track the development and accomplishments of each project while maintaining a clear overall picture of my learning curve.
 
